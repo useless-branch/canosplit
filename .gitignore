@@ -20,3 +20,4 @@ _autosave*
 *.gbrjob
 *.zip
 /gerber
+*.step
